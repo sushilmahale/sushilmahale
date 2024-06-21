@@ -1,0 +1,38 @@
+*{
+    
+ margin: 0;
+ padding: 0;
+}
+
+
+nav{
+
+
+   text-align: right;
+   background-color: black; margin: 10px;
+
+
+}
+body{
+    background-color: black;
+}
+
+li{ list-style: none;
+    text-align:  right;
+    display:inline-flex;color: white;
+     margin-right: 50px;
+     padding: 15px;
+
+     font-size: 20px;
+     font-family: "Times New Roman", Times, serif;
+   
+}
+#bio{
+    color: white;
+}
+ .hello{
+     font-size: 100px;
+     font-family: Cursive;
+      padding: 10px ;
+    color: rgb(246, 163, 54);
+ }
