@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sushilmahale
-.
-- 📫 How to reach me ...
+
 🎓 BBA (CA) Student | Passionate about Business and Technology  
 💡 Exploring the intersection of business administration and computer applications  
 📚 Currently learning web development, data analytics, and financial technologies  
